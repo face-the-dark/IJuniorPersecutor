@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 53519004}
   - component: {fileID: 53519003}
   - component: {fileID: 53519002}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -239,7 +239,7 @@ GameObject:
   - component: {fileID: 134074091}
   - component: {fileID: 134074090}
   - component: {fileID: 134074089}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 248309368}
   - component: {fileID: 248309367}
   - component: {fileID: 248309366}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -449,7 +449,7 @@ GameObject:
   - component: {fileID: 297542198}
   - component: {fileID: 297542197}
   - component: {fileID: 297542196}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -554,7 +554,7 @@ GameObject:
   - component: {fileID: 388577423}
   - component: {fileID: 388577422}
   - component: {fileID: 388577421}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -659,7 +659,7 @@ GameObject:
   - component: {fileID: 497478011}
   - component: {fileID: 497478010}
   - component: {fileID: 497478009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 516579384}
   - component: {fileID: 516579383}
   - component: {fileID: 516579382}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -866,7 +866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 534253688}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Stairs
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -926,7 +926,7 @@ GameObject:
   - component: {fileID: 548702698}
   - component: {fileID: 548702697}
   - component: {fileID: 548702696}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1031,7 +1031,7 @@ GameObject:
   - component: {fileID: 581676891}
   - component: {fileID: 581676890}
   - component: {fileID: 581676889}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1136,7 +1136,7 @@ GameObject:
   - component: {fileID: 613109447}
   - component: {fileID: 613109446}
   - component: {fileID: 613109445}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1241,7 +1241,7 @@ GameObject:
   - component: {fileID: 682426300}
   - component: {fileID: 682426299}
   - component: {fileID: 682426298}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1437,7 +1437,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 809271576}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Buildings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1567,7 +1567,7 @@ GameObject:
   - component: {fileID: 1073229650}
   - component: {fileID: 1073229649}
   - component: {fileID: 1073229648}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1673,7 +1673,7 @@ GameObject:
   - component: {fileID: 1184851507}
   - component: {fileID: 1184851510}
   - component: {fileID: 1184851511}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1797,7 +1797,7 @@ GameObject:
   - component: {fileID: 1211543503}
   - component: {fileID: 1211543502}
   - component: {fileID: 1211543501}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Inclined Surface
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1883,13 +1883,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1211543500}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0.3907311, w: 0.9205049}
-  m_LocalPosition: {x: -14, y: 3.25, z: 0}
-  m_LocalScale: {x: 1, y: 10, z: 20}
+  m_LocalRotation: {x: 0, y: 0, z: -0.37460646, w: 0.9271839}
+  m_LocalPosition: {x: -14, y: 3, z: 0}
+  m_LocalScale: {x: 10, y: 1, z: 20}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 809271576}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 46}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -44}
 --- !u!1 &1222881439
 GameObject:
   m_ObjectHideFlags: 0
@@ -1902,7 +1902,7 @@ GameObject:
   - component: {fileID: 1222881443}
   - component: {fileID: 1222881442}
   - component: {fileID: 1222881441}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2007,7 +2007,7 @@ GameObject:
   - component: {fileID: 1251670666}
   - component: {fileID: 1251670665}
   - component: {fileID: 1251670664}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2112,7 +2112,7 @@ GameObject:
   - component: {fileID: 1295408157}
   - component: {fileID: 1295408156}
   - component: {fileID: 1295408155}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2217,7 +2217,7 @@ GameObject:
   - component: {fileID: 1299351181}
   - component: {fileID: 1299351180}
   - component: {fileID: 1299351179}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2322,7 +2322,7 @@ GameObject:
   - component: {fileID: 1312205070}
   - component: {fileID: 1312205069}
   - component: {fileID: 1312205068}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2427,7 +2427,7 @@ GameObject:
   - component: {fileID: 1335266993}
   - component: {fileID: 1335266992}
   - component: {fileID: 1335266991}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2532,7 +2532,7 @@ GameObject:
   - component: {fileID: 1367308815}
   - component: {fileID: 1367308814}
   - component: {fileID: 1367308813}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2637,7 +2637,7 @@ GameObject:
   - component: {fileID: 1383225568}
   - component: {fileID: 1383225567}
   - component: {fileID: 1383225566}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2742,7 +2742,7 @@ GameObject:
   - component: {fileID: 1474110990}
   - component: {fileID: 1474110989}
   - component: {fileID: 1474110988}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2847,7 +2847,7 @@ GameObject:
   - component: {fileID: 1484338747}
   - component: {fileID: 1484338746}
   - component: {fileID: 1484338745}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2953,7 +2953,8 @@ GameObject:
   - component: {fileID: 1535959791}
   - component: {fileID: 1535959790}
   - component: {fileID: 1535959794}
-  m_Layer: 0
+  - component: {fileID: 1535959795}
+  m_Layer: 8
   m_Name: Bot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2967,7 +2968,7 @@ CapsuleCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535959789}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: c3ba5ab77ce41dd48a59828607f12581, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3042,7 +3043,7 @@ Transform:
   m_GameObject: {fileID: 1535959789}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5, y: 2, z: -14}
+  m_LocalPosition: {x: -8.713882, y: 4, z: -7.6448116}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3073,8 +3074,29 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!114 &1535959795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1535959789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a4cce17191a1734090cd97daf869dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _moveSpeed: 4
+  _minDistanceToPlayer: 3
+  _player: {fileID: 1184851509}
+  _inclinationLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  _groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!1 &1537493804
 GameObject:
   m_ObjectHideFlags: 0
@@ -3087,7 +3109,7 @@ GameObject:
   - component: {fileID: 1537493807}
   - component: {fileID: 1537493806}
   - component: {fileID: 1537493805}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3193,7 +3215,7 @@ GameObject:
   - component: {fileID: 1621061376}
   - component: {fileID: 1621061375}
   - component: {fileID: 1621061374}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3298,7 +3320,7 @@ GameObject:
   - component: {fileID: 1824382234}
   - component: {fileID: 1824382233}
   - component: {fileID: 1824382232}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3403,7 +3425,7 @@ GameObject:
   - component: {fileID: 1898252388}
   - component: {fileID: 1898252387}
   - component: {fileID: 1898252386}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3508,7 +3530,7 @@ GameObject:
   - component: {fileID: 1950973815}
   - component: {fileID: 1950973814}
   - component: {fileID: 1950973813}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Step (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3613,7 +3635,7 @@ GameObject:
   - component: {fileID: 2066544618}
   - component: {fileID: 2066544617}
   - component: {fileID: 2066544616}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Obstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
